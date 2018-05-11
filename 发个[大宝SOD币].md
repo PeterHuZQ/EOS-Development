@@ -61,7 +61,7 @@
 ./cleos wallet import [ 生成的私钥 ]
 例如`./cleos wallet import 5KN58YFrx1cuJLRca9hs5nd6LxT7w2SMLnACKSLPVnRWnie2qkx`
 ./cleos create account eosio sodfans [ 生成的公钥 ] [ 生成的公钥 ]
-例如`./cleos create account eosio currency EOS7ivkdhbFkPrZAZNRZW1Lz6oE39RTPRgxwA4tjL4RAdKPVmNLBk EOS7ivkdhbFkPrZAZNRZW1Lz6oE39RTPRgxwA4tjL4RAdKPVmNLBk`
+例如`./cleos create account eosio sodfans EOS7ivkdhbFkPrZAZNRZW1Lz6oE39RTPRgxwA4tjL4RAdKPVmNLBk EOS7ivkdhbFkPrZAZNRZW1Lz6oE39RTPRgxwA4tjL4RAdKPVmNLBk`
 
 检查一下两个账户是否已经存在了
 >./cleos get account [ 账户名 ]
