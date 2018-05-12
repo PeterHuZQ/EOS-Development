@@ -27,6 +27,7 @@
 
 如果成功，系统会返回给你一个钱包的私钥。如图
 ![](picture/wallet.png)
+密码：PW5KUPRXv3FNhMTMgsZLFsDkxAAsdDfmoj2Sr1xQztfKtzd5gGKbp
 
 ### 3.2 加载 bios 合约
 如果我们把 EOS 看做一个操作系统，那么 bios 合约就是让我们能进行最底层的操作的合约，其它合约的运行建立在 bios 合约的基础之上，所以我们先来加载 bios 合约。
