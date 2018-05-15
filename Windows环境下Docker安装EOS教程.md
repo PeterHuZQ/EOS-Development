@@ -14,7 +14,9 @@ Docker下载地址为：https://store.docker.com/editions/community/docker-ce-de
 单击Close and log out，这个时候我们重启一次电脑
 
 ### 1.3、启动Docker
-* 在桌面找到Docker for Windows快捷方式，双击启动即可！启动成功后托盘处会有一个小鲸鱼的图标。打开命令行输入命令：docker version可以查看当前docker版本号，如图：
+* 在桌面找到Docker for Windows快捷方式，双击启动即可！
+启动成功后托盘处会有一个小鲸鱼的图标。
+打开命令行输入命令：`docker version`可以查看当前docker版本号，如图：<br>
 ![](/picture/start_docker.png)<br>
 
 
@@ -34,7 +36,7 @@ Docker 路径更改<br>
 ### 2.1、构建 EOSIO 镜像
 `git clone https://github.com/EOSIO/eos.git --recursive`<br>
 `cd eos/Docker`<br>
-`docker build . -t eosio/eos`
+`docker build . -t eosio/eos`<br>
 ![](/picture/build_eos.png)<br>
 
 ### 2.2、启动nodeos容器
