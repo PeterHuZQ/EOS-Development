@@ -6,7 +6,11 @@
 
 > * [第三篇:发币教程](https://github.com/PeterHuZQ/EOS-Development/blob/master/%E5%8F%91%E4%B8%AA%5B%E5%A4%A7%E5%AE%9DSOD%E5%B8%81%5D.md)
 
-> * [第四篇:编写第一份智能合约](https://github.com/PeterHuZQ/EOS-Dapp/blob/master/contract/docs/%E9%83%A8%E7%BD%B2%E5%90%88%E7%BA%A6%E6%89%8B%E5%86%8C.md)
+> * [第四篇:编写发布第一份智能合约](https://github.com/PeterHuZQ/EOS-Dapp/blob/master/contract/docs/motherday%E5%90%88%E7%BA%A6%E6%89%8B%E5%86%8C.md)
+
+> * [第五篇:在EOS上实现CRUD操作](https://github.com/PeterHuZQ/EOS-Dapp/blob/master/contract/docs/todo%E5%90%88%E7%BA%A6%E6%89%8B%E5%86%8C.md)
+
+> * [第六篇:将EOS系统升级到最新版本](https://github.com/PeterHuZQ/EOS-Development/blob/master/%E5%8D%87%E7%BA%A7EOS%E7%B3%BB%E7%BB%9F.md)
 
 >未完待续，如果你们觉得这些文章对您有点用的话不妨打赏点什么BTC、ETH、EOS，
 各种我知道不知道的代币都砸过来吧!<br>
