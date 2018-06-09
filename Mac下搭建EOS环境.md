@@ -14,7 +14,7 @@
 
 如果在git clone中出现问题，多试几次
 
-### 1.2 Boot
+### 1.2 Boost
 安装EOS会需要一些依赖的软件，大部分会自动安装。如果出现错误，提示你有些包版本不对，用`brew upgrade [软件名]`更新就是了。 
 其中要注意的是Boost的安装。Boost是EOS需要的C++资源库。如果原本没有安装，那么直接`brew install boost`即可。如果原来已安装旧的版本，那么不要升级，直接卸载重新安装。
 >brew uninstall --force boost <br/>
